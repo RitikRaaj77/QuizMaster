@@ -18,25 +18,25 @@ Jet Trivia is an engaging and dynamic quiz application designed to enhance learn
   <tr>
     <!-- First row: video + 2 images -->
     <td style="padding: 10px;">
-      <img src="assets/home_screen.png" alt="Home Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+      <img src="assets/S1.png" alt="Home Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
     </td>
     <td style="padding: 10px;">
-      <img src="assets/question_input.png" alt="Question Input Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/S2.png" alt="Question Input Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
     <td style="padding: 10px;">
-      <img src="assets/json_preview.png" alt="JSON Preview Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/S3.png" alt="JSON Preview Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
   </tr>
   <tr>
     <!-- Second row: 3 images -->
     <td style="padding: 10px;">
-      <img src="assets/validation.png" alt="Real-time Validation" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/S4.png" alt="Real-time Validation" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
     <td style="padding: 10px;">
-      <img src="assets/json_creation.png" alt="JSON Creation" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/S5.png" alt="JSON Creation" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
     <td style="padding: 10px;">
-      <img src="assets/ui_design.png" alt="Jetpack Compose UI" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/S6.png" alt="Jetpack Compose UI" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
   </tr>
 </table>
