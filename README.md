@@ -1,8 +1,8 @@
-# Jet Trivia - Dynamic Quiz Application | [Website](https://ritikraaj77.github.io/QuizMaster/)
+# Quiz Master - Dynamic Quiz Application | [Website](https://ritikraaj77.github.io/QuizMaster/)
 
 ## Introduction
 
-Jet Trivia is an engaging and dynamic quiz application designed to enhance learning and entertainment. The app enables users to create trivia questions, select answers, and generate JSON files for seamless integration.
+Quiz Master is an engaging and dynamic quiz application designed to enhance learning and entertainment. The app enables users to create trivia questions, select answers, and generate JSON files for seamless integration.
 
 ## Key Features
 - Custom question creation allowing users to input questions, options, and correct answers
