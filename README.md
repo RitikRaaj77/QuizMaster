@@ -1,4 +1,4 @@
-# Jet Trivia - Dynamic Quiz Application | [Website](https://ritikraaj77.github.io/WhisperBox/)
+# Jet Trivia - Dynamic Quiz Application | [Website](https://ritikraaj77.github.io/QuizMaster/)
 
 ## Introduction
 
